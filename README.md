@@ -16,9 +16,9 @@
 </div>
   
   ##
- 
+
 <div> 
- <a href="https://discord.gg/ZQaumQJzhc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/WvGFg74nQG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
 </div> 
 
