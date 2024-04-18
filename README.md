@@ -21,13 +21,14 @@
   <img align="center" alt="Ks-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ks-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Ks-wn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">     
-<img align="center" href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22859%26project%3D%26in=0">
+
 </div>
   
   ##
 
 <div> 
- <a href="https://discord.gg/gHyxDunxNz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
+ <a href="https://discord.gg/gHyxDunxNz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+</a> 
+<img  href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22859%26project%3D%26in=0"> 
 </div> 
 
