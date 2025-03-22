@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://github.com/Kauanzinho19">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+👋;Me+chamo+Kauan+Sabino;Tenho+19+anos...;amante+da+tecnologia!&center=true&size=25">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+👋;Me+chamo+Kauan+Sabino;amante+da+tecnologia!&center=true&size=25">
 </h1>
 
 - 🔭 Desenvolvedor Fullstack com Lua
