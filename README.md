@@ -27,4 +27,10 @@
 </div>
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kauanzinho19/Kauanzinho19/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kauanzinho19/Kauanzinho19/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Kauanzinho19/Kauanzinho19/output/snake.svg">
+</picture>
+
 
